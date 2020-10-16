@@ -1,0 +1,11 @@
+####
+- Dynamic Programming is nothing but an optimization over plain recursion.
+- There are 2 ways of implementing Dynamic Programming.
+    - Memoization (Top Down)
+    - Tabulation (Bottom Up)
+- There are wide applications of Dynamic Programming Algorithms:
+    - Floyd Warshall Algorithm (Shortest Path betwn every pair of vertices)
+    - Bellman Ford Algorithm (Shortest Path Algo ,mostly used in Routing)
+    - Diff Utility (Longest Common Sub sequence) (To find difference betn two files ,mostly used in VCS i.e GIT)
+    - Searched Closed Words (Edit Distance, eg: searching in a dictionary)
+    - Resource Allocation (0-1 Knapsack, optimal decisions)
