@@ -3,4 +3,4 @@
 
  - Started with Web Development in ReactJs
  - Learnt using Bootstrap with ReactJs
- - Designed reponsive components in website
+ - Designed reponsive components in website.
